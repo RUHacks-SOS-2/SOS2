@@ -9,10 +9,10 @@ We are Supporting our Seniors, Supporting our Students or abbreviatedly known as
 
 What is the problem?
 
-Due to the on-going pandemic, at-risk populations such as the elderly have been instructed to stay at home and to socially distance themselves from others as much as possible in order abstain from contracting COVID-19. This becomes a problem for the seniors as they will become dependent on either their friends and family for their daily needs such as groceries, medication and more. However, not everyone is fortunate enough to have someone to depend on for their needs and therefore will need someone else to help them.  
+Due to the on-going pandemic, at-risk populations such as the elderly have been instructed to stay at home and to socially distance themselves from others as much as possible in order abstain from contracting COVID-19. This becomes a problem for the seniors as they will become dependent on either their friends and family for their daily needs such as groceries, medication and more. However, not everyone is fortunate enough to have someone to depend on for their needs and therefore will need someone else to help them. Additionally, the eldely have physical limitations that may deter them from being able to contact someone via text or phone call such as arthritis.    
 
 This pandemic did not limit its impact solely to public health. The economy has taken a massive hit and unemployment amongst the population has never gotten this bad this quickly. People are struggling to make ends meet and are actively trying to find employment. This is especially difficult for students due to their  mountains of debt and limited work experience.
 
 What is our solution?
 
-Our proposed solution is to have the students address the tasks and needs of the senior 
+Our proposed solution is to have the students support the seniors in the community by pairing them off with students where the students can help the seniors achieve daily tasks and errands such as picking up groceries or buying their medication. Thanks to the Canadian goverment statement, that they would give $1-5k to students who volunteer in the fight against COVID-19, this provides an opportunity for gainful employement for the student as well as addressing the problem of the elderly. 
