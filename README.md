@@ -15,7 +15,7 @@ This pandemic did not limit its impact solely to public health. The economy has 
 
 What is our solution?
 
-Our proposed solution is to have the students support the seniors in the community by pairing them off with students where the students can help the seniors achieve daily tasks and errands such as picking up groceries or buying their medication. Thanks to the Canadian goverment statement, that they would give $1-5k to students who volunteer in the fight against COVID-19, this provides an opportunity for gainful employement for the student as well as addressing the problem of the elderly.
+Our proposed solution is to have the students support the seniors in the community by pairing them off with students where the students can help the seniors achieve daily tasks and errands such as picking up groceries or buying their medication. Thanks to the Canadian goverment statement, that they would give $1-5k to students who volunteer in the fight against COVID-19, this provides an opportunity for gainful employement for the student as well as addressing the problem of the elderly. 
 
 How is it done?
 
