@@ -15,4 +15,13 @@ This pandemic did not limit its impact solely to public health. The economy has 
 
 What is our solution?
 
-Our proposed solution is to have the students support the seniors in the community by pairing them off with students where the students can help the seniors achieve daily tasks and errands such as picking up groceries or buying their medication. Thanks to the Canadian goverment statement, that they would give $1-5k to students who volunteer in the fight against COVID-19, this provides an opportunity for gainful employement for the student as well as addressing the problem of the elderly. 
+Our proposed solution is to have the students support the seniors in the community by pairing them off with students where the students can help the seniors achieve daily tasks and errands such as picking up groceries or buying their medication. Thanks to the Canadian goverment statement, that they would give $1-5k to students who volunteer in the fight against COVID-19, this provides an opportunity for gainful employement for the student as well as addressing the problem of the elderly.
+
+How is it done?
+
+Using the diverse functionalities and API's available through the Google Cloud Platform, we are able to create an application that can be used as a means of communication between the senior and student as well as be able to match them together based on their geographical proximity. To ease the use of this platform for the seniors, we have allowed the seniors to speak into their device for their information and needs. Using the Speech-to-Text and Natural Language processing API's we will be able to extract pertinent information from what is being said and store that in a readable format for our backend database, firestore. Firestore will store that information and parse through that information and will interact with the Google Maps API where it will find matches based on the location of the student and senior. If they are within a certain range of one another, it will be a match! Once matched, the needs of the senior will be passed on to the student where they will be able to address it accordingly. 
+
+
+
+
+
